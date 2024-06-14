@@ -14,4 +14,6 @@ Independent Variables:
 11.	Credit History - This refers to a record of applicant's ability to repay debts and demonstrated responsibility in repaying them.
 12.	Property_Area - This refers to the total area within the boundaries of the property as set out in Schedule.
 13.	Loan_Status - This refres to whether applicant is eligible to be availed the Loan requested.
-You have to build a model that can predict whether the loan of the applicant will be approved(Loan_status) or not on the basis of the details provided in the dataset. 
+
+
+**You have to build a model that can predict whether the loan of the applicant will be approved(Loan_status) or not on the basis of the details provided in the dataset.** 
